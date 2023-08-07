@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^[!lpha!]" /ect/ssh/sshd_config
+grep "^[[!lpha!]]" /ect/ssh/sshd_config
